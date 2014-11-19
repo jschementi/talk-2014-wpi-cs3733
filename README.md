@@ -21,7 +21,7 @@ personas.
 ````
 
 
-## [View slides](http://jimmy.schementi.com/talks/wpi-cs3733-20141118)
+## [View slides](http://jschementi.github.io/talk-2014-wpi-cs3733)
 
 ## View slides locally
 
