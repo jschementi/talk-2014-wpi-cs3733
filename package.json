@@ -2,6 +2,7 @@
   "name": "presentation-software-engineering-in-the-real-world",
   "version": "0.0.0",
   "dependencies": {
+    "bespoke-ga": "^1.0.0"
   },
   "devDependencies": {
     "bespoke": "^1.0.0",
