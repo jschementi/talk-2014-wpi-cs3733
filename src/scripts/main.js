@@ -9,10 +9,10 @@ var bespoke = require('bespoke'),
   hash = require('bespoke-hash'),
   progress = require('bespoke-progress'),
   forms = require('bespoke-forms'),
-  ga = require('bespoke-ga');
+  bga = require('bespoke-ga');
 
 // Bespoke.js
-bespoke.from('article', [
+var deck = bespoke.from('article', [
   nebula(),
   keys(),
   touch(),
@@ -22,8 +22,13 @@ bespoke.from('article', [
   hash(),
   progress(),
   forms(),
-  ga({trackingId: 'UA-45861154-1'})
+  bga({trackingId: 'UA-45861154-1'})
 ]);
+
+deck.on('activate', function(event) {
+  var path = location.pathname + '#' + (event.index + 1);
+  ga('send', 'pageview', {page: path});
+});
 
 // Prism syntax highlighting
 // This is actually loaded from "bower_components" thanks to
