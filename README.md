@@ -4,7 +4,7 @@ These slides were used while speaking to Gary Pollice’s software engineering
 class at WPI on 11/18/2014.
 
 Gary, it was an honor to speak to your students, especially as this
-is the last time your offering this course at WPI. I’m sure I speak for a
+is the last time you're offering this course at WPI. I’m sure I speak for a
 decades-worth of Software Engineers when I say, thank you - may we be the best
 of all your personas.
 
