@@ -5,7 +5,7 @@ These slides were used while speaking to [Gary Pollice](http://web.cs.wpi.edu/~g
 on 11/18/2014.
 
 Gary, it was an honor to speak to your students, especially as this is the last
-time you'll teach this course at WPI.. I’m sure I speak for a decades-worth of
+time you'll teach this course at WPI. I’m sure I speak for a decades-worth of
 Software Engineers when I say, thank you - may we be the best of all your personas.
 
 ```
