@@ -4,10 +4,9 @@ These slides were used while speaking to [Gary Pollice](http://web.cs.wpi.edu/~g
 [software engineering class at WPI](http://web.cs.wpi.edu/~gpollice/cs3733_software_engineering.html)
 on 11/18/2014.
 
-Gary, it was an honor to speak to your students, especially as this
-is the last time you're offering this course at WPI. I’m sure I speak for a
-decades-worth of Software Engineers when I say, thank you - may we be the best
-of all your personas.
+Gary, it was an honor to speak to your students, especially as this is the last
+time you'll teach this course at WPI.. I’m sure I speak for a decades-worth of
+Software Engineers when I say, thank you - may we be the best of all your personas.
 
 ```
                                   _.._
