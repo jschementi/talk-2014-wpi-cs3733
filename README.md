@@ -1,7 +1,8 @@
 # Computer Science after College
 
-These slides were used while speaking to Gary Pollice’s software engineering
-class at WPI on 11/18/2014.
+These slides were used while speaking to [Gary Pollice](http://web.cs.wpi.edu/~gpollice/)’s
+[software engineering class at WPI](http://web.cs.wpi.edu/~gpollice/cs3733_software_engineering.html)
+on 11/18/2014.
 
 Gary, it was an honor to speak to your students, especially as this
 is the last time you're offering this course at WPI. I’m sure I speak for a
